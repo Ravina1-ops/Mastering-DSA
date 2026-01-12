@@ -2,18 +2,18 @@
 #include<cmath>
 using namespace std;
 int main(){
-    int arr[5]={1,2,3,2,1};
-    int n=5;
-    cout<<"duplicate : "<<endl;
-    for(int i=0;i<n;i++){
-    int num = abs(arr[i]);// Step 1: Get the  (Value)
-        // We use abs() because the value might have been made negative already!
-        if(arr[num]<0){cout<< num <<" "<<endl;
-        }
-        else{
-            arr[num] = -arr[num];
-        }
+int arr[5]={1,3,3,1,2};
+int n=5;
+cout<<"Duplicates: "<<endl;
+for(int i = 0; i<n;i++){
+    int index = abs(arr[i]);// find absolute value |-5|=5
+    if(arr[index]<0){
+        cout<<index<<" ";
     }
+    else{
+        arr[index] = -arr[index];
+    }
+}
     return 0;
 }
 
