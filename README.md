@@ -9,7 +9,10 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 - [x] Array: Intersection of array
 - [x] Array: Pair Sum (Two Pointer Approach)
 - [x] Array: Sort 0s and 1s (Two pointer)
-- [ ] Strings (Next)
+- [x] Array: Sort 0 , 1 and 2 (Dutch National Flag)
+- [x] Array: Triplet Sum
+- [x] Array: Unique Occurence Of duplicates
+- [#] Binary Search: Binary Search 
 
 ### 🛠️ Tech Stack
 - **Language:** C++
