@@ -12,7 +12,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 - [x] Array: Sort 0 , 1 and 2 (Dutch National Flag)
 - [x] Array: Triplet Sum
 - [x] Array: Unique Occurence Of duplicates
-- [#] Binary Search: Binary Search 
+- [x] Binary Search: Binary Search (working)
 
 ### 🛠️ Tech Stack
 - **Language:** C++
