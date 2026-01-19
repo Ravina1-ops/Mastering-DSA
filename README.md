@@ -12,7 +12,8 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 - [x] Array: Sort 0 , 1 and 2 (Dutch National Flag)
 - [x] Array: Triplet Sum
 - [x] Array: Unique Occurence Of duplicates
-- [x] Binary Search: Binary Search (working)
+- [x] Binary Search: Find first and last occurence of element
+- [x] Binary Search: Peak Element Of mountain find
 
 ### 🛠️ Tech Stack
 - **Language:** C++
