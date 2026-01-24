@@ -14,6 +14,8 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 - [x] Array: Unique Occurence Of duplicates
 - [x] Binary Search: Find first and last occurence of element
 - [x] Binary Search: Peak Element Of mountain find
+- [x] Binary Search: Find Pivot element 
+- [x] Binary Search: find Square Root 
 
 ### 🛠️ Tech Stack
 - **Language:** C++
