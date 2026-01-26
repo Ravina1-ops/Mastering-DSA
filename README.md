@@ -16,6 +16,8 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 - [x] Binary Search: Peak Element Of mountain find
 - [x] Binary Search: Find Pivot element 
 - [x] Binary Search: find Square Root 
+- [x] Binary Search: Book Allocation Problem
+- [x] Binary Search: Painter's Partition Problem
 
 ### 🛠️ Tech Stack
 - **Language:** C++
