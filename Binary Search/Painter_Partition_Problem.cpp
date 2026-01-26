@@ -43,6 +43,9 @@ int partition(int arr[], int n , int m ){
 
 int main(){
     int arr[6]={2,1,5,6,2,3};
-    int books = partition(arr,6,2);
-    cout<<"Mid is: "<<books<<endl;
+    int time = partition(arr,6,2);
+    cout<<"Time is: "<<time<<endl;
+    int arr2[4]={5,5,5,5};
+    int Time2 = partition(arr2,4,2);
+    cout<<"Time is: "<<Time2<<endl;
 }
