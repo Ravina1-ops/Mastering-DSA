@@ -20,6 +20,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 - [x] Binary Search: Painter's Partition Problem
 - [x] Binary Search: Aggressive Cow problem
 - [x] Sorting: Selection Sort
+- [x] Sorting: Bubble Sort
 ### 🛠️ Tech Stack
 - **Language:** C++
 - **Focus:** Logic building and Time/Space complexity.
