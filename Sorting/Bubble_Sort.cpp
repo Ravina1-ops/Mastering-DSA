@@ -3,7 +3,11 @@ using namespace std;
 void bubblesort(int arr[], int n)
 {
     for (int i = 1; i < n; i++)
-    {   bool swapped = false;
+    {   bool swapped = false; 
+       /* if we use this so means complexity
+        become o(n) instead of o(n^2) in best case when 
+        array is already sorted */
+
         for (int j = 0; j < n - i; j++)
         {
             if (arr[j] > arr[j + 1])
@@ -13,7 +17,7 @@ void bubblesort(int arr[], int n)
             }
         }
         if(swapped == false){
-            //already sorted 
+            //already sorted array 
             break;
         }
     }
