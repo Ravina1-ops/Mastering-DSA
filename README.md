@@ -22,7 +22,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 - [x] Sorting: Selection Sort
 - [x] Sorting: Bubble Sort
 - [x] Sorting: Insertion Sort
-- [x] Cpp : STL
+- [x] Cpp : 
 ### 🛠️ Tech Stack
 - **Language:** C++
 - **Focus:** Logic building and Time/Space complexity.
