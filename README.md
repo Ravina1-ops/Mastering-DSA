@@ -22,6 +22,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 - [x] Sorting: Selection Sort
 - [x] Sorting: Bubble Sort
 - [x] Sorting: Insertion Sort
+- [x] Two Pointer: Moving zeroes to the end
 
 ### 🛠️ Tech Stack
 - **Language:** C++
