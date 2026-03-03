@@ -27,3 +27,57 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 ### 🛠️ Tech Stack
 - **Language:** C++
 - **Focus:** Logic building and Time/Space complexity.
+
+# 🚀 My DSA Journey | Mastering Logic 
+
+This repository tracks my progress through Data Structures and Algorithms. Following Babbar's path to build a strong foundation.
+
+## 📌 Table of Contents
+* [Arrays](#-arrays)
+* [Binary Search](#-binary-search)
+* [Strings](#-strings)
+* [Tech Stack](#-tech-stack)
+
+---
+
+## 🏗️ Progress Tracking
+
+<details>
+<summary><b>📦 Arrays & Basic Logic</b></summary>
+
+| Problem | Platform | Status |
+| :--- | :--- | :--- |
+| Swap Alternates | VS Code | ✅ Done |
+| Find Unique (XOR) | GFG | ✅ Done |
+| Dutch National Flag (0s, 1s, 2s) | LeetCode | ✅ Done |
+| Moving Zeroes to End | GFG/LC | ✅ Done |
+
+</details>
+
+<details>
+<summary><b>🔍 Binary Search</b></summary>
+
+| Problem | Platform | Status |
+| :--- | :--- | :--- |
+| Peak Element in Mountain | LeetCode | ✅ Done |
+| Book Allocation Problem | GFG | ✅ Done |
+| Aggressive Cows | Spoj | ✅ Done |
+
+</details>
+
+<details>
+<summary><b>🧵 Strings (Current Focus)</b></summary>
+
+| Problem | Platform | Status |
+| :--- | :--- | :--- |
+| Reverse String | VS Code | ✅ Done |
+| Palindrome Check | VS Code | ✅ Done |
+| Valid Palindrome (Case/Symbols) | LeetCode | ⏳ Learning |
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** C++ 
+- **Focus:** Logic Building & Time/Space Complexity
