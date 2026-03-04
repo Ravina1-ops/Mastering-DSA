@@ -63,7 +63,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 </details>
 
 <details>
-<summary><br>🎏 Two Pointer Approach</b></summary>
+<summary><b>🎏 Two Pointer Approach</b></summary>
 | Problem | Platform | Status |
 | :--- | :--- | :--- |
 | Pair Sum | VS code | ✅ Done |
