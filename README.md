@@ -64,6 +64,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 
 <details>
 <summary><b>🎏 Two Pointer Approach</b></summary>
+
 | Problem | Platform | Status |
 | :--- | :--- | :--- |
 | Pair Sum | VS code | ✅ Done |
@@ -74,7 +75,6 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Reverse array  | VS code | ✅ Done |
 | Reverse array by given index | VS code | ✅ Done |
 | Two Array Sum | VS Code | ✅ Done |
-
 
 </details>
 ---
