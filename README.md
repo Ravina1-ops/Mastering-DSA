@@ -47,6 +47,14 @@ This repository tracks my progress through Data Structures and Algorithms. Follo
 | :--- | :--- | :--- |
 | Swap Alternates | VS Code | ✅ Done |
 | Find Unique (XOR) | VS code | ✅ Done |
+| | VS code | ✅ Done |
+|  | VS code | ✅ Done |
+| | VS code | ✅ Done |
+|  | VS code | ✅ Done |
+| | VS code | ✅ Done |
+|  | VS code | ✅ Done |
+|  | VS code | ✅ Done |
+|  | VS code | ✅ Done |
 | Reverse Array | VS code/Gfg/Lc | ✅ Done |
 | Dutch National Flag (0s, 1s, 2s) | LeetCode | ✅ Done |
 | Moving Zeroes to End | GFG/LC | ✅ Done |
