@@ -24,9 +24,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 - [x] Sorting: Insertion Sort
 - [x] Two Pointer: Moving zeroes to the end
 
-### 🛠️ Tech Stack
-- **Language:** C++
-- **Focus:** Logic building and Time/Space complexity.
+
 
 # 🚀 My DSA Journey | Mastering Logic 
 
@@ -48,7 +46,8 @@ This repository tracks my progress through Data Structures and Algorithms. Follo
 | Problem | Platform | Status |
 | :--- | :--- | :--- |
 | Swap Alternates | VS Code | ✅ Done |
-| Find Unique (XOR) | GFG | ✅ Done |
+| Find Unique (XOR) | VS code | ✅ Done |
+| Reverse Array | VS code/Gfg/Lc | ✅ Done |
 | Dutch National Flag (0s, 1s, 2s) | LeetCode | ✅ Done |
 | Moving Zeroes to End | GFG/LC | ✅ Done |
 
