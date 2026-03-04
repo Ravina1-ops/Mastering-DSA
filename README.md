@@ -4,9 +4,9 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 
 ## 📌 Table of Contents
 * [Arrays](#-arrays)
-* [Binary Search](#-binary-search)
+* [Binary Search](#-binary-search) 
 * [Strings](#-strings)
-* [Two_Pointer_Technique] (#-two-pointer-technique)
+* [Two_Pointer_Technique] (#-two-pointer)
 * [Tech Stack](#-tech-stack)
 
 ---
