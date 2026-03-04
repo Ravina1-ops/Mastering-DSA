@@ -1,30 +1,6 @@
  # 🚀 My DSA Journey 🚀  Mastering DSA
 This repository is my dedicated space for mastering Data Structures and Algorithms. I am currently following a structured path to build strong problem-solving logic and also solve questions on different platforms.
 
-### 📈 Progress Tracking
-
-- [x] Array: Pair Sum (Two Pointer Approach)
-- [x] Array: Sort 0s and 1s (Two pointer)
-- [x] Array: Sort 0 , 1 and 2 (Dutch National Flag)
-- [x] Array: Triplet Sum
-- [x] Array: Unique Occurence Of duplicates
-- [x] Binary Search: Find first and last occurence of element
-- [x] Binary Search: Peak Element Of mountain find
-- [x] Binary Search: Find Pivot element 
-- [x] Binary Search: find Square Root 
-- [x] Binary Search: Book Allocation Problem
-- [x] Binary Search: Painter's Partition Problem
-- [x] Binary Search: Aggressive Cow problem
-- [x] Sorting: Selection Sort
-- [x] Sorting: Bubble Sort
-- [x] Sorting: Insertion Sort
-- [x] Two Pointer: Moving zeroes to the end
-
-
-
-# 🚀 My DSA Journey | Mastering Logic 
-
-This repository tracks my progress through Data Structures and Algorithms. Following Babbar's path to build a strong foundation.
 
 ## 📌 Table of Contents
 * [Arrays](#-arrays)
@@ -46,26 +22,32 @@ This repository tracks my progress through Data Structures and Algorithms. Follo
 | Find Unique (XOR) | VS code | ✅ Done |
 | Find Duplicate and Multiple duplicates | VS code | ✅ Done |
 | Intersection of array | VS code | ✅ Done |
-| | VS code | ✅ Done |
-|  | VS code | ✅ Done |
-| | VS code | ✅ Done |
-|  | VS code | ✅ Done |
-|  | VS code | ✅ Done |
-|  | VS code | ✅ Done |
-| | VS code/Gfg/Lc | ✅ Done |
+| Triplet Sum | VS code | ✅ Done |
+| Unique Occurence Of duplicates | VS code | ✅ Done |
 | Dutch National Flag (0s, 1s, 2s) | LeetCode | ✅ Done |
-| Moving Zeroes to End | GFG/LC | ✅ Done |
+| | VS code | ✅ Done |
+|  | VS code | ✅ Done |
+|  | VS code | ✅ Done |
+|  | VS code | ✅ Done |
 
 </details>
 
 <details>
-<summary><b>🔍 Binary Search</b></summary>
+<summary><b>🔍 Binary Search and Sorting</b></summary>
 
 | Problem | Platform | Status |
 | :--- | :--- | :--- |
 | Peak Element in Mountain | LeetCode | ✅ Done |
 | Book Allocation Problem | GFG | ✅ Done |
-| Aggressive Cows | Spoj | ✅ Done |
+| Aggressive Cows | VS code | ✅ Done |
+| Find first and last occurence of element | VS code | ✅ Done |
+| Find Pivot element | VS code | ✅ Done |
+| Find Square Root  | VS code | ✅ Done |
+| Painter's Partition Problem | VS code | ✅ Done |
+| Target Element in Rotated Array | VS code | ✅ Done |
+| Selection Sort | VS code | ✅ Done |
+| Bubble Sort | VS code | ✅ Done |
+| Insertion Sort | VS code | ✅ Done |
 
 </details>
 
@@ -86,10 +68,12 @@ This repository tracks my progress through Data Structures and Algorithms. Follo
 | :--- | :--- | :--- |
 | Pair Sum | VS code | ✅ Done |
 | Sort 0s and 1s | VS code | ✅ Done |
-|  | VS code | ✅ Done |
-|  | VS code | ✅ Done |
-|  | VS code | ✅ Done |
-|  | VS code | ✅ Done |
+| Moving Zeroes to End | GFG/LC | ✅ Done |
+| Merge Two sorted arrays | VS code | ✅ Done |
+| In place merge sorted arrays | VS code | ✅ Done |
+| Reverse array  | VS code | ✅ Done |
+| Reverse array by given index | VS code | ✅ Done |
+| Two Array Sum | VS Code | ✅ Done |
 
 
 
