@@ -6,7 +6,6 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 * [Arrays](#-arrays)
 * [Binary Search](#-binary-search) 
 * [Strings](#-strings)
-* [Two_Pointer_Technique] (#-two-pointer)
 * [Tech Stack](#-tech-stack)
 
 ---
