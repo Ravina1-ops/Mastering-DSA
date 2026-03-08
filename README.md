@@ -59,7 +59,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Palindrome Check | VS Code | ✅ Done |
 | Valid Palindrome (Case/Symbols) | LeetCode | ⏳ Learning |
 | Reverse a word order | VS Code | ✅ Done |
-
+| Reverse all characters of a word  in string | vs code | ✅ Done |
 
 </details>
 
