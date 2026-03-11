@@ -7,3 +7,9 @@ string removeOccurence(string s, string part){
     }
     return s;
 }
+int main(){
+    string s = {"daabcbaabcbc"};
+   
+    cout<<removeOccurence(s,"abc");
+    return 0;
+}
