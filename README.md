@@ -63,6 +63,9 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Remove Occurence of substring | Vs code | ✅ Done |
 | Replace Spaces | Vs Code | ✅ Done |
 
+| Remove Occurence of substring | Vs code | ✅ Done |
+| Replace Spaces | Vs Code | ✅ Done |
+
 </details>
 
 <details>
