@@ -60,7 +60,6 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Valid Palindrome (Case/Symbols) | LeetCode | ⏳ Learning |
 | Reverse a word order  | VS Code | ✅ Done |
 | Reverse all characters of a word  in string | vs code | ✅ Done |
-
 | Remove Occurence of substring | Vs code | ✅ Done |
 | Replace Spaces | Vs Code | ✅ Done |
 
