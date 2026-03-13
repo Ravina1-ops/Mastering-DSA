@@ -8,7 +8,22 @@ string replacespace(string s){
         spacecount++;
     }
    }
-   int oldlen
+   int oldlen = s.length();
+   s.resize(oldlen + spacecount*2);
+   int i = oldlen-1;
+   int j = s.length()-1;
+   while(i>=0){
+    if(s[i]==' '){
+        s[j--]='0';
+        s[j--]='4';
+        s[j--]='@';
+    }
+    else{
+        s[j--]=s[i];
+    }
+    i--;
+   }
+   return s;
 }
 
 int main(){
