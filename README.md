@@ -64,10 +64,10 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Replace Spaces | Vs Code | ✅ Done |
 | String Compression | VS code | ✅ Done |
 |  | VS code | ✅ Done |
-|  | VS code | ✅ Done |
-|  | VS code | ✅ Done |
-| Remove Occurence of substring | Vs code | ✅ Done |
-| Replace Spaces | Vs Code | ✅ Done |
+| Remove all adjacent duplicates | VS code | ✅ Done |
+| Permutation in string | VS code | ✅ Done |
+| Remove max Occurence of character | Vs code | ✅ Done |
+| In place Replace Spaces | Vs Code | ✅ Done |
 
 </details>
 
