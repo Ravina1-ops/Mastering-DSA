@@ -63,7 +63,6 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Remove Occurence of substring | Vs code | ✅ Done |
 | Replace Spaces | Vs Code | ✅ Done |
 | String Compression | VS code | ✅ Done |
-|  | VS code | ✅ Done |
 | Remove all adjacent duplicates | VS code | ✅ Done |
 | Permutation in string | VS code | ✅ Done |
 | Remove max Occurence of character | Vs code | ✅ Done |
