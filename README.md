@@ -24,10 +24,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Triplet Sum | VS code | ✅ Done |
 | Unique Occurence Of duplicates | VS code | ✅ Done |
 | Dutch National Flag (0s, 1s, 2s) | LeetCode | ✅ Done |
-| | VS code | ✅ Done |
-|  | VS code | ✅ Done |
-|  | VS code | ✅ Done |
-|  | VS code | ✅ Done |
+
 
 </details>
 
@@ -57,7 +54,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | :--- | :--- | :--- |
 | Reverse String | VS Code | ✅ Done |
 | Palindrome Check | VS Code | ✅ Done |
-| Valid Palindrome (Case/Symbols) | LeetCode | ⏳ Learning |
+| Valid Palindrome (Case/Symbols) | LeetCode | ✅ Done |
 | Reverse a word order  | VS Code | ✅ Done |
 | Reverse all characters of a word  in string | vs code | ✅ Done |
 | Remove Occurence of substring | Vs code | ✅ Done |
