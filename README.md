@@ -62,7 +62,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Reverse all characters of a word  in string | vs code | ✅ Done |
 | Remove Occurence of substring | Vs code | ✅ Done |
 | Replace Spaces | Vs Code | ✅ Done |
-|  | VS code | ✅ Done |
+| String Compression | VS code | ✅ Done |
 |  | VS code | ✅ Done |
 |  | VS code | ✅ Done |
 |  | VS code | ✅ Done |
