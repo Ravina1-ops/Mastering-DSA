@@ -38,5 +38,6 @@ int main(){
     }
 sumofrow(arr,3,3);
 sumofcol(arr,3,3);
+
 return 0;
 }
