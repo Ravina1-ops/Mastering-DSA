@@ -1,3 +1,4 @@
+// finding largest row sum among all row sums and give its index in output
 #include<iostream>
 using namespace std;
 int largestRowSum(int arr[][3],int n,int m){
