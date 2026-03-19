@@ -34,6 +34,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Problem | Platform | Status |
 | :--- | :--- | :--- |
 | Sum of rows and columns | VS code |  ✅ Done |
+| Printing a wave of matrix | VS code |  ✅ Done |
 
 </details>
 
