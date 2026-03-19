@@ -33,7 +33,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 
 | Problem | Platform | Status |
 | :--- | :--- | :--- |
-
+| Sum of rows and columns | VS code |  ✅ Done |
 
 </details>
 
