@@ -29,6 +29,15 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 </details>
 
 <details>
+<summary><b>📦 Arrays & Basic Logic</b></summary>
+
+| Problem | Platform | Status |
+| :--- | :--- | :--- |
+
+
+</details>
+
+<details>
 <summary><b>🔍 Binary Search and Sorting</b></summary>
 
 | Problem | Platform | Status |
