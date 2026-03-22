@@ -56,10 +56,10 @@ int main()
    bool found = searchMatrix(arr,target);
    cout<<"\nSearching for "<<target <<": ";
    if(found){
-    cout<< " Found: "<< endl;.
+    cout<< " \nElement Found!"<< endl;
    }
    else{
-    
+    cout<< "Not found! "<< endl;
    }
 
 return 0;
