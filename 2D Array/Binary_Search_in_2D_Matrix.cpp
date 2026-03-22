@@ -52,13 +52,15 @@ int main()
         }
         cout << endl;
     }
-    vector<int> result = searchMatrix(arr,6);
-    cout << "\nSpiral Order: ";
-    for (int val : result)
-    {
-        cout << val << " ";
-    }
-    cout << endl;
+   int target = 6;
+   bool found = searchMatrix(arr,target);
+   cout<<"\nSearching for "<<target <<": ";
+   if(found){
+    cout<< " Found: "<< endl;.
+   }
+   else{
+    
+   }
 
 return 0;
 }
