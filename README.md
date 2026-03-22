@@ -36,6 +36,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Sum of rows and columns | VS code |  ✅ Done |
 | Printing a wave of matrix | VS code |  ✅ Done |
 | Spiral Print(Most Important) | VS code |  ✅ Done |
+| Binary Search in 2D matrix | VS code |  ✅ Done |
 
 </details>
 
