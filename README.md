@@ -37,6 +37,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Printing a wave of matrix | VS code |  ✅ Done |
 | Spiral Print(Most Important) | VS code |  ✅ Done |
 | Binary Search in 2D matrix | VS code |  ✅ Done |
+| Rotate matrix by 90 degree | VS code |  ✅ Done |
 
 </details>
 
