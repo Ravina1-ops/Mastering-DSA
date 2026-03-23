@@ -6,3 +6,5 @@
 7 8 9                       9 6 3
  
 */              
+#include<iostream>
+#include<vector>
