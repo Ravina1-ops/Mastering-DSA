@@ -8,6 +8,7 @@
 */              
 #include <iostream>
 #include <vector>
+#include<algorithm>
 using namespace std;
 
 void rotate90(vector<vector<int>>& matrix) {
