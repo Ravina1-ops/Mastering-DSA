@@ -28,16 +28,34 @@ void rotate90(vector<vector<int>>& matrix) {
 }
 
 int main() {
-    vector<vector<int>> mat = {
-        {1,2,3},
-        {4,5,6},
-        {7,8,9}
-    };
+    int row, column;
+    cout << "Enter number of rows: ";
+    cin >> row;
+    cout << "Enter number of cols: ";
+    cin >> column;
+    vector<vector<int>> arr(row, vector<int>(column));
+    cout << "Enter matrix elements:\n";
+    for (int i = 0; i < row; i++)
+    {
+        for (int j = 0; j < column; j++)
+        {
+            cin >> arr[i][j];
+        }
+    }
+    cout << "\nMatrix:\n";
+    for (int i = 0; i < row; i++)
+    {
+        for (int j = 0; j < column; j++)
+        {
+            cout << arr[i][j] << " ";
+        }
+        cout << endl<<endl;
+    }
 
-    rotate90(mat);
+    rotate90(arr);
 
     // Print rotated matrix
-    for(auto row : mat) {
+    for(auto row : arr) {
         for(auto val : row) cout << val << " ";
         cout << endl;
     }
