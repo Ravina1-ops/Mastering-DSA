@@ -29,7 +29,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 </details>
 
 <details>
-<summary><b>📦 2D Arrays</b></summary>
+<summary><b>📦 2D Arrays (Current Focus)</b></summary>
 
 | Problem | Platform | Status |
 | :--- | :--- | :--- |
@@ -61,7 +61,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 </details>
 
 <details>
-<summary><b>🧵 Strings (Current Focus)</b></summary>
+<summary><b>🧵 Strings </b></summary>
 
 | Problem | Platform | Status |
 | :--- | :--- | :--- |
