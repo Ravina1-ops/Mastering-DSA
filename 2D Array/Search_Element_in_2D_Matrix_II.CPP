@@ -1,4 +1,9 @@
 // ROW wise sorted and column wise sorted
+/* 1     4   7   11  15
+   2     5   8   12  19
+   3     6   9   16  22
+   10    13  14  17  24*/
+   
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -45,8 +50,13 @@ cout << "Enter matrix elements:\n";
         }
         cout << endl;
     }
-
-searchMatrix(arr,10);
+int target = 10;
+if(searchMatrix(arr,target)){
+    cout << "Element Found "<< endl;
+}
+else{
+    cout<< "Element Not Found "<< endl;
+}
 
     return 0;
 } 
