@@ -33,6 +33,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 
 | Problem | Platform | Status |
 | :--- | :--- | :--- |
+| Intro of 2D matrix | vs code | ✅ Done |
 | Sum of rows and columns | VS code |  ✅ Done |
 | Printing a wave of matrix | VS code |  ✅ Done |
 | Spiral Print(Most Important) | VS code |  ✅ Done |
