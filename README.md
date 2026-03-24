@@ -40,7 +40,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Binary Search in 2D matrix | VS code |  ✅ Done |
 | Rotate matrix by 90 degree | VS code |  ✅ Done |
 | Search Element in 2d Matrix | vs code | ✅ Done |
-| Search Element in 2d Matrix part II | ✅ Done |
+| Search Element in 2d Matrix part II | ✅ Done | 
 
 </details>
 
