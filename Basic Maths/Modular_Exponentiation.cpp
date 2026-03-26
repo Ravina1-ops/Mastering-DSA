@@ -1,3 +1,5 @@
+// given a three intergers x n and m find x^n %m
+
 #include<iostream>
 using namespace std;
 int modularExponentiation(int x,int n, int m){
