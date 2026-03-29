@@ -1,4 +1,7 @@
 // homework question segmented sieve
+/*The Segmented Sieve algorithm is an efficient way to find prime numbers in a given range, especially when the range is large.
+ It divides the range into smaller segments and processes them one by one
+, using the Sieve of Eratosthenes for smaller primes. Below is a step-by-step implementation in C++.*/
 
 #include <bits/stdc++.h>
 using namespace std;
