@@ -104,8 +104,8 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 
 | Problem | Platform | Status |
 | :--- | :--- | :--- |
-|Basic Intro | Pointers | ✅ Done |
-| 
+| Basic Intro Pointers | vs code | ✅ Done |
+| Methods of pointers to initialize and operations | vs code | ✅ Done |
 
 </details>
 ---
