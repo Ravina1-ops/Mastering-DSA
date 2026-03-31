@@ -100,7 +100,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 </details>
 
 <details>
-<summary><b>📦 2D Arrays</b></summary>
+<summary><b>📦 Pointers (current focus)</b></summary>
 
 | Problem | Platform | Status |
 | :--- | :--- | :--- |
