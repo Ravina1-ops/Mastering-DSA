@@ -105,6 +105,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Problem | Platform | Status |
 | :--- | :--- | :--- |
 |Basic Intro | Pointers | ✅ Done |
+| 
 
 </details>
 ---
