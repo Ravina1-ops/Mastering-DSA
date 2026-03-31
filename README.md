@@ -98,6 +98,15 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Two Array Sum | VS Code | ✅ Done |
 
 </details>
+
+<details>
+<summary><b>📦 2D Arrays</b></summary>
+
+| Problem | Platform | Status |
+| :--- | :--- | :--- |
+|Basic Intro | Pointers | ✅ Done |
+
+</details>
 ---
 
 ## 🛠️ Tech Stack
