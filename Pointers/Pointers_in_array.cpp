@@ -35,6 +35,20 @@ cout<<" Adress of h: "<< u <<endl;
 cout<<" value stor at adress of h: "<< *u <<endl;
 cout<<" Adress of pointer u box: "<< &u <<endl;
 
+//  symbol table can not be changes 
+/*
+arr[10 ]= {1,2}
 
+arr ----> 710 (address)
+
+if program includes 
+arr= arr+1 it show error bcoz arr is mapped with adress 710 in symbol table
+
+but if int *p = &arr[0]
+and we did p = p+1 
+it give ouput as it increse the next byte value like o to 4 then it print the 
+4th byte address after increment p
+
+*/
     return 0;
 }
