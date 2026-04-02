@@ -106,6 +106,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | :--- | :--- | :--- |
 | Basic Intro Pointers | vs code | ✅ Done |
 | Methods of pointers to initialize and operations | vs code | ✅ Done |
+| Pointers in arrays | vs code | ✅ Done |
 
 </details>
 ---
