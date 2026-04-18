@@ -1,6 +1,23 @@
 /* Recursion me 2 main chize honi hi chaiye hai
 1. recurence relation f(n) me 
-2. base case condition with return statement
+2. base case condition with return statement kyoki agr return statement nhi ddeg
+to segmentation falut agye kyoki stack overflow ho jayega tree negavtive infinity
+tak chla jayge fn call karte karte
+3. processing part kuch bhi print karan ho beech me ya end me 
+
+
+fun()                                   fun()
+{                           |           {
+  base case                 |               base case
+
+  processing                |                recurence relation 
+
+  recurrence relation       |                processing 
+}                           |             }
+
+TAIL RECURSION              |              HEAD RECUSRION
+
+
 */
 
 #include<iostream>
