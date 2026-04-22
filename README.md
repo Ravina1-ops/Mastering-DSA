@@ -109,6 +109,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Pointers in arrays | vs code | ✅ Done |
 | Character Array Pointers | vs code | ✅ Done |
 | Functions in Pointers | vs code | ✅ Done |
+| Double Pointers intro and functions in DOuble pointer | vs code | ✅ Done |
 
 
 </details>
