@@ -118,7 +118,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Problem | Platform | Status |
 | :--- | :--- | :--- |
 | Recursion intro with example code | vs code | ✅ Done |
-| Reverse Counting | vs code | ✅ Done |
+| Reverse Counting | Vs code | ✅ Done |
 | Binary and linear search using recursion | vs code | ✅ Done |
 | Climb stairs problem  | vs code | ✅ Done |
 |  | vs code | ✅ Done |
