@@ -118,7 +118,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Problem | Platform | Status |
 | :--- | :--- | :--- |
 | Recursion intro with example code | vs code | ✅ Done |
-| Methods of pointers to initialize and operations | vs code | ✅ Done |
+| REverse Counting | vs code | ✅ Done |
 | Pointers in arrays | vs code | ✅ Done |
 | Character Array Pointers | vs code | ✅ Done |
 | Functions in Pointers | vs code | ✅ Done |
