@@ -120,7 +120,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Recursion intro with example code | vs code | ✅ Done |
 | Reverse Counting | vs code | ✅ Done |
 | Binary and linear search using recursion | vs code | ✅ Done |
-| Character Array Pointers | vs code | ✅ Done |
+| Climb stairs problem | vs code | ✅ Done |
 | Functions in Pointers | vs code | ✅ Done |
 | Double Pointers intro and functions in DOuble pointer | vs code | ✅ Done |
 
