@@ -122,7 +122,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Binary and linear search using recursion | Vs code | ✅ Done |
 | Climb stairs problem  | vs code | ✅ Done |
 | Print Numbers into words | vs code | ✅ Done |
-|  | vs code | ✅ Done |
+| Factorial and fibonacci series | vs code | ✅ Done |
 
 
 </details>
