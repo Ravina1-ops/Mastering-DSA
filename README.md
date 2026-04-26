@@ -127,8 +127,6 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Palindrome check| vs code | ✅ Done |
 
 
-
-
 </details>
 ---
 
