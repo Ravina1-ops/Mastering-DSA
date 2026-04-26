@@ -124,6 +124,8 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Print Numbers into words | vs code | ✅ Done |
 | Factorial and fibonacci series | vs code | ✅ Done |
 | Sum of all array elements | vs code | ✅ Done |
+| Palindrome check| vs code | ✅ Done |
+
 
 
 
