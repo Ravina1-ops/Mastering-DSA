@@ -126,6 +126,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Sum of all array elements | vs code | ✅ Done |
 | Palindrome check| vs code | ✅ Done |
 | Bubble Sort | vs code | ✅ Done |
+| Merge Sort | vs code |  ✅ Done |
 
 
 </details>
