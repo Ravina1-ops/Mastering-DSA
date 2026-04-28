@@ -125,6 +125,7 @@ This repository is my dedicated space for mastering Data Structures and Algorith
 | Factorial and fibonacci series | vs code | ✅ Done |
 | Sum of all array elements | vs code | ✅ Done |
 | Palindrome check| vs code | ✅ Done |
+| Bubble Sort | vs code | ✅ Done |
 
 
 </details>
