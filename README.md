@@ -2,6 +2,8 @@
 This repository is my dedicated space for mastering Data Structures and Algorithms. I am currently following a structured path to build strong problem-solving logic and also solve questions on different platforms.
 
 
+
+
 ## 📌 Table of Contents
 * [Arrays](#-arrays)
 * [Binary Search](#-binary-search) 
