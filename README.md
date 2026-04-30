@@ -1,7 +1,9 @@
  # 🚀 My DSA Journey 🚀  Mastering DSA
 This repository is my dedicated space for mastering Data Structures and Algorithms. I am currently following a structured path to build strong problem-solving logic and also solve questions on different platforms.
 
-
+## 🏅 LeetCode Achievements
+- ✅ April LeetCode Badge (2026)
+- ✅ 50 Days Streak Badge
 
 
 ## 📌 Table of Contents
