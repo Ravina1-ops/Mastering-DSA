@@ -35,3 +35,34 @@ Perform one left rotation on s, moving the first character to the end of the str
 Check if the rotated string s is equal to goal:
 If they are equal, return true, indicating that goal is a rotation of s.
 If all rotations have been checked and none match goal, return false.*/
+
+#include <iostream>
+#include<string>
+#include<algorithm>
+using namespace std;
+
+bool rotateString(string s, string goal) {
+        if (s.length() != goal.length()) return false;
+        int length = s.length();
+
+        // Try all possible rotations of the string
+        for (int rotationCount = 0; rotationCount < length; ++rotationCount) {
+            // Perform one rotation
+            rotate(s.begin(), s.begin() + 1, s.end());
+            if (s == goal) return true;
+        }
+        return false;
+    }
+
+int main(){
+    string s = "abcde";
+    string goal = "cdeab";
+
+    if (rotateString(s, goal)) {
+        cout << "true" << endl;
+    } else {
+        cout << "false" << endl;
+    }
+
+    return 0;
+}
