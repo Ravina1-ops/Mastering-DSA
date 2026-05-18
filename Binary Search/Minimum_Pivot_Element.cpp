@@ -17,5 +17,6 @@ int pivot(int arr[],int n){
 }
 int main(){
     int arr[6]={6,7,8,1,2,3};
-    cout<<"Pivot is: "<<pivot(arr,6);
+    cout<<"Pivot is: "<<pivot(arr,6)<<endl;
+     cout<<"Pivot Element is: "<<arr[pivot(arr,6)];
 }
